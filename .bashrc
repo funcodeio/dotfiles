@@ -14,4 +14,3 @@ export HISTTIMEFORMAT="%Y-%m-%d %T %z  "
 
 # to prevent from suspending the terminal session when we pass Ctrl + s.
 stty -ixon
-
